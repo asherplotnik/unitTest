@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 //@SpringBootTest
-public class CalculatorDisplaySpringTests {
+public class CalculatorDisplay22SpringTests {
 
 	@Test
 	@Disabled

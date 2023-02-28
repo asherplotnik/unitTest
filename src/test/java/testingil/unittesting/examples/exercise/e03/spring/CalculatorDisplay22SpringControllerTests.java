@@ -16,7 +16,7 @@ import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 
 @SpringBootTest
 @ContextConfiguration(classes = { CalculatorControllerConfiguration.class })
-public class CalculatorDisplaySpringControllerTests{
+public class CalculatorDisplay22SpringControllerTests {
 
 	MockMvc mockMvc;
 

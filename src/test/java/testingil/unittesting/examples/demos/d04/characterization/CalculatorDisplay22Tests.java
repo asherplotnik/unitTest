@@ -5,14 +5,13 @@ import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 
-public class CalculatorDisplayTests {
+public class CalculatorDisplay22Tests {
 
 	CalculatorDisplay cd;
 	TestLogger log;
 	
 	@BeforeEach
 	public void setup() {
-		cd = new CalculatorDisplay();
 		log = new TestLogger();
 	}
 	
